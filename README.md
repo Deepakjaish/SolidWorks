@@ -26,6 +26,8 @@ The purpose of this repository is to:
 │   ├── Assemblies
 │   ├── Drawings
 │   └── Images
+└── README.md
+```
 
 ## 📁 File Types
 
@@ -43,7 +45,7 @@ The purpose of this repository is to:
 
 * Part Modeling
 * Assembly Design
-* Surface Modeling
+* Engineering Drawings
 * Motion Studies
 * Simulation (where applicable)
 
@@ -63,6 +65,13 @@ Images and renders for each project are included inside their respective project
 This repository is primarily for personal learning and portfolio purposes. Suggestions and constructive feedback are always welcome.
 
 ## 📄 License
+
+This repository is intended for educational and portfolio purposes. Please do not redistribute or use the designs commercially without permission.
+
+---
+
+⭐ If you find this repository helpful or interesting, consider giving it a star!
+
 
 This repository is intended for educational and portfolio purposes. Please do not redistribute or use the designs commercially without permission.
 
